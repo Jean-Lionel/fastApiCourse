@@ -1,5 +1,5 @@
-1#Devenir Milliardadire # 15000 # true
-2#Devenir Milliardadire # 1520 # true
-3#Devenir RICHE # 600 # true
-4#Devenir PATRON # 1820 # true
-5#Devenir HOMME AVEC SUCCES # 120 # false
+1#FRANCAIS # 15000 # true
+2#MATH # 1520 # true
+3#BIOLOGIE # 600 # true
+4#PYTHON # 1820 # true
+5#C++ # 120 # false
